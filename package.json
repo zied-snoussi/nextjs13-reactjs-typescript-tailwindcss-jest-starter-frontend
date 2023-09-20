@@ -1,6 +1,11 @@
 {
   "name": "nextjs13-reactjs-typescript-tailwindcss-jest-starter-frontend",
   "version": "0.1.0",
+  "author": {
+    "name": "zied-snoussi",
+    "email": "ziedsnoussi.tn@gmail.com",
+    "url": "https://www.zied-snoussi.me"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
