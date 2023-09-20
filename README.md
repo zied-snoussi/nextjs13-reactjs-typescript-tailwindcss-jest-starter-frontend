@@ -15,10 +15,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nextjs13-reactjs-typescript-tailwindcss-jest-starter-frontend.git
+   git clone https://github.com/zied-snoussi/nextjs13-reactjs-typescript-tailwindcss-jest-starter-frontend.git
    ```
-
-   Replace `your-username` with your GitHub username or the desired repository URL.
 
 2. Change into the project directory:
 
